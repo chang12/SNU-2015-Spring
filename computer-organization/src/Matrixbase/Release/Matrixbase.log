@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.cpp(15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+main.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(55): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+main.cpp(56): warning C4101: 'jj' :참조되지 않은 지역 변수입니다.
+main.cpp(55): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+main.cpp(55): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+main.cpp(56): warning C4101: 'ii' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  All 306 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Matrixbase.vcxproj -> C:\Users\User\Desktop\2010-11858_이창현_5차\Matrixbase\Release\Matrixbase.exe
