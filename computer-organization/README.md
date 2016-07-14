@@ -3,7 +3,8 @@
 
 주어진 **Base Code**(두개의 2차원 float vector를 입력받아 이중 for-loop로 곱셈을 계산하는 기본 형태)에서 시작하여 5주동안 진행되었고, 매주 제출할때마다 **이전에 적용한 방법과는 다른 새로운 방법으로 수행 속도를 가속**시켜야 하는 규칙입니다. 5주 후 최종 제출본에서 Base Code 대비 최소 50배를 가속해야 만점이었습니다.
 
-자세한 가이드라인은 [프로젝트 공지 문서](https://www.dropbox.com/s/gtmmj40ky5ps9tl/2015-1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B3%B5%EC%A7%80.pdf?dl=0)를 참고해주세요.
+* 자세한 가이드라인은 [프로젝트 공지 문서](https://www.dropbox.com/s/gtmmj40ky5ps9tl/2015-1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B3%B5%EC%A7%80.pdf?dl=0)를 참고해주세요.
+* 제출한 [최종 보고서](https://www.dropbox.com/s/gtd2t2npk0v4jij/2010-11858_%EC%9D%B4%EC%B0%BD%ED%98%84_5%EC%B0%A8.docx?dl=0)에 적용한 acceleration 이론에 대한 간단한 기록이 적혀있습니다.
 
 #Acceleration Method
 * Matrix Transpose (for better Cache-hit!)
